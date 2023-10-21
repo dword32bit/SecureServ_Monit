@@ -1,6 +1,6 @@
 # SecureServ_Monit
 Build WEB server with security implementation in it
-  - Sistem Operasi Ubuntu 20.04
+  - Sistem Operasi Ubuntu Server 20.04
   - Monitoring and Server Secure with Monit  
   
 **Members :**
@@ -11,4 +11,8 @@ Build WEB server with security implementation in it
   - Monitoring System and Web Server(Monit) -Danang 0826
   
 Service :
-- 
+- UFW (Uncomplicated Firewall
+- SSH
+- PHPmyadmin MariaDB & Webmin
+- Monitoring Service with M/Monit
+
